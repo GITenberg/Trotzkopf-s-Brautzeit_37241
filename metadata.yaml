@@ -1,0 +1,38 @@
+_repo: Trotzkopf-s-Brautzeit_37241
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Planck, Willy
+    alias: Planck, W. (Willy)
+    birthdate: 1870
+    deathdate: 1956
+    gutenberg_agent_id: '39646'
+    url: http://www.gutenberg.org/2009/agents/39646
+covers:
+- cover_type: archival
+  image_path: 37241-tei/images/cover.jpg
+creator:
+  author:
+    agent_name: Wildhagen, Else
+    birthdate: 1861
+    deathdate: 1944
+    gutenberg_agent_id: '38721'
+    url: http://www.gutenberg.org/2009/agents/38721
+    wikipedia: http://de.wikipedia.org/wiki/Else_Wildhagen
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2011-08-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37241'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Girls -- Germany -- Fiction'
+- !lcc 'PT'
+- !lcsh 'Weddings -- Fiction'
+- !lcsh 'Middle class -- Germany -- Fiction'
+title: Trotzkopf's Brautzeit
+url: http://www.gutenberg.org/ebooks/37241
