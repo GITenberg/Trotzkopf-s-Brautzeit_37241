@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/38721
     wikipedia: http://de.wikipedia.org/wiki/Else_Wildhagen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37241#Trotzkopf-s-Brautzeit
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2011-08-28'
 gutenberg_type: Text
